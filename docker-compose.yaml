@@ -1,0 +1,6 @@
+version: '3'
+services:
+  desafio-go-docker:
+    image: jazon/fullcycle
+    ports:
+      - "8080:80" 
